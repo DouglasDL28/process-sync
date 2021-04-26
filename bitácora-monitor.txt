@@ -1,0 +1,131 @@
+Iniciando procesos
+Iniciando pthread: 23386
+Thread 23386 - iteración: 0
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos10 recursos disponibles.
+Iniciando pthread: 23387
+Thread 23387 - iteración: 0
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Iniciando pthread: 23388
+Thread 23388 - iteración: 0
+Entrando al monitor
+No hay suficientes recursos
+0 recursos disponibles.
+Iniciando pthread: 23389
+Thread 23389 - iteración: 0
+Entrando al monitor
+No hay suficientes recursos
+0 recursos disponibles.
+Iniciando pthread: 23390
+Thread 23390 - iteración: 0
+Entrando al monitor
+No hay suficientes recursos
+0 recursos disponibles.
+Iniciando pthread: 23391
+Thread 23391 - iteración: 0
+Entrando al monitor
+No hay suficientes recursos
+0 recursos disponibles.
+Iniciando pthread: 23392
+Thread 23392 - iteración: 0
+Entrando al monitor
+No hay suficientes recursos
+0 recursos disponibles.
+Iniciando pthread: 23385
+Thread 23385 - iteración: 0
+Entrando al monitor
+No hay suficientes recursos
+0 recursos disponibles.
+Iniciando pthread: 23384
+Thread 23384 - iteración: 0
+Entrando al monitor
+No hay suficientes recursos
+0 recursos disponibles.
+Iniciando pthread: 23393
+Thread 23393 - iteración: 0
+Entrando al monitor
+No hay suficientes recursos
+0 recursos disponibles.
+Thread 23390 - iteración: 1
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23389 - iteración: 1
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23393 - iteración: 1
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23388 - iteración: 1
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23387 - iteración: 1
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23386 - iteración: 1
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23391 - iteración: 1
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23392 - iteración: 1
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23385 - iteración: 1
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23390 - iteración: 2
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23387 - iteración: 2
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23385 - iteración: 2
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23384 - iteración: 1
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23392 - iteración: 2
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23388 - iteración: 2
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23391 - iteración: 2
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23389 - iteración: 2
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos0 recursos disponibles.
+Thread 23384 - iteración: 2
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos20 recursos disponibles.
+Thread 23393 - iteración: 2
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos20 recursos disponibles.
+Thread 23386 - iteración: 2
+Entrando al monitor
+Recursos suficientes, consumiendo...
+Se consumirán 10 recursos60 recursos disponibles.

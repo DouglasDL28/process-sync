@@ -1,0 +1,421 @@
+Iniciando procesos
+Iniciando pthread: 23460
+Thread 23460 - iteración: 0
+23460 semáforo abierto.
+Thread 23460 - consumiendo recursos
+Iniciando pthread: 23459
+Thread 23459 - iteración: 0
+23459 semáforo abierto.
+Thread 23459 - consumiendo recursos
+Iniciando pthread: 23461
+Thread 23461 - iteración: 0
+23461 semáforo abierto.
+Thread 23461 - consumiendo recursos
+Iniciando pthread: 23458
+Thread 23458 - iteración: 0
+23458 semáforo abierto.
+Thread 23458 - consumiendo recursos
+Iniciando pthread: 23457
+Thread 23457 - iteración: 0
+23457 semáforo abierto.
+Thread 23457 - consumiendo recursos
+Iniciando pthread: 23462
+Thread 23462 - iteración: 0
+23462 semáforo abierto.
+Thread 23462 - consumiendo recursos
+Iniciando pthread: 23463
+Thread 23463 - iteración: 0
+23463 semáforo abierto.
+Thread 23463 - consumiendo recursos
+Iniciando pthread: 23464
+Thread 23464 - iteración: 0
+23464 semáforo abierto.
+Thread 23464 - consumiendo recursos
+Iniciando pthread: 23465
+Thread 23465 - iteración: 0
+23465 semáforo abierto.
+Thread 23465 - consumiendo recursos
+Iniciando pthread: 23456
+Thread 23456 - iteración: 0
+23456 semáforo abierto.
+Thread 23456 - consumiendo recursos
+Iniciando pthread: 23447
+Thread 23447 - iteración: 0
+23447 semáforo abierto.
+Iniciando pthread: 23446
+Thread 23446 - iteración: 0
+23446 semáforo abierto.
+Iniciando pthread: 23448
+Thread 23448 - iteración: 0
+23448 semáforo abierto.
+Iniciando pthread: 23449
+Thread 23449 - iteración: 0
+23449 semáforo abierto.
+Iniciando pthread: 23450
+Thread 23450 - iteración: 0
+23450 semáforo abierto.
+Iniciando pthread: 23451
+Thread 23451 - iteración: 0
+23451 semáforo abierto.
+Iniciando pthread: 23452
+Thread 23452 - iteración: 0
+23452 semáforo abierto.
+Iniciando pthread: 23453
+Thread 23453 - iteración: 0
+23453 semáforo abierto.
+Iniciando pthread: 23454
+Thread 23454 - iteración: 0
+23454 semáforo abierto.
+Iniciando pthread: 23455
+Thread 23455 - iteración: 0
+23455 semáforo abierto.
+23458 recurso usado.
+Thread 23458 - liberando recursos
+Thread 23458 - iteración: 1
+23458 semáforo abierto.
+Thread 23458 - consumiendo recursos
+23457 recurso usado.
+Thread 23457 - liberando recursos
+Thread 23457 - iteración: 1
+23457 semáforo abierto.
+Thread 23457 - consumiendo recursos
+23456 recurso usado.
+Thread 23456 - liberando recursos
+Thread 23456 - iteración: 1
+23456 semáforo abierto.
+Thread 23456 - consumiendo recursos
+23464 recurso usado.
+Thread 23464 - liberando recursos
+Thread 23464 - iteración: 1
+23464 semáforo abierto.
+Thread 23464 - consumiendo recursos
+23459 recurso usado.
+Thread 23459 - liberando recursos
+Thread 23459 - iteración: 1
+23459 semáforo abierto.
+Thread 23459 - consumiendo recursos
+23460 recurso usado.
+Thread 23460 - liberando recursos
+Thread 23460 - iteración: 1
+23460 semáforo abierto.
+Thread 23460 - consumiendo recursos
+23461 recurso usado.
+Thread 23461 - liberando recursos
+Thread 23461 - iteración: 1
+23461 semáforo abierto.
+Thread 23461 - consumiendo recursos
+23458 recurso usado.
+Thread 23458 - liberando recursos
+Thread 23458 - iteración: 2
+23458 semáforo abierto.
+23465 recurso usado.
+Thread 23465 - liberando recursos
+Thread 23465 - iteración: 1
+23465 semáforo abierto.
+Thread 23465 - consumiendo recursos
+23464 recurso usado.
+Thread 23464 - liberando recursos
+Thread 23464 - iteración: 2
+23464 semáforo abierto.
+Thread 23464 - consumiendo recursos
+Thread 23450 - consumiendo recursos
+23462 recurso usado.
+Thread 23462 - liberando recursos
+Thread 23462 - iteración: 1
+23462 semáforo abierto.
+Thread 23462 - consumiendo recursos
+23463 recurso usado.
+Thread 23463 - liberando recursos
+Thread 23463 - iteración: 1
+23463 semáforo abierto.
+Thread 23463 - consumiendo recursos
+23459 recurso usado.
+Thread 23459 - liberando recursos
+Thread 23459 - iteración: 2
+23459 semáforo abierto.
+Thread 23459 - consumiendo recursos
+23457 recurso usado.
+Thread 23457 - liberando recursos
+Thread 23457 - iteración: 2
+23457 semáforo abierto.
+Thread 23457 - consumiendo recursos
+23464 recurso usado.
+Thread 23464 - liberando recursos
+Thread 23464 - iteración: 3
+23464 semáforo abierto.
+23456 recurso usado.
+Thread 23456 - liberando recursos
+Thread 23456 - iteración: 2
+23456 semáforo abierto.
+Thread 23456 - consumiendo recursos
+Thread 23451 - consumiendo recursos
+23450 recurso usado.
+Thread 23450 - liberando recursos
+Thread 23450 - iteración: 1
+23450 semáforo abierto.
+Thread 23450 - consumiendo recursos
+23461 recurso usado.
+Thread 23461 - liberando recursos
+Thread 23461 - iteración: 2
+23461 semáforo abierto.
+Thread 23461 - consumiendo recursos
+23465 recurso usado.
+Thread 23465 - liberando recursos
+Thread 23465 - iteración: 2
+23465 semáforo abierto.
+Thread 23465 - consumiendo recursos
+23462 recurso usado.
+Thread 23462 - liberando recursos
+Thread 23462 - iteración: 2
+23462 semáforo abierto.
+Thread 23462 - consumiendo recursos
+23457 recurso usado.
+Thread 23457 - liberando recursos
+Thread 23457 - iteración: 3
+23457 semáforo abierto.
+Thread 23457 - consumiendo recursos
+23459 recurso usado.
+Thread 23459 - liberando recursos
+Thread 23459 - iteración: 3
+23459 semáforo abierto.
+Thread 23459 - consumiendo recursos
+23465 recurso usado.
+Thread 23465 - liberando recursos
+Thread 23465 - iteración: 3
+23465 semáforo abierto.
+Thread 23465 - consumiendo recursos
+23450 recurso usado.
+Thread 23450 - liberando recursos
+Thread 23450 - iteración: 2
+23450 semáforo abierto.
+Thread 23450 - consumiendo recursos
+23451 recurso usado.
+Thread 23451 - liberando recursos
+Thread 23451 - iteración: 1
+23451 semáforo abierto.
+Thread 23451 - consumiendo recursos
+23463 recurso usado.
+Thread 23463 - liberando recursos
+Thread 23463 - iteración: 2
+23463 semáforo abierto.
+Thread 23463 - consumiendo recursos
+23460 recurso usado.
+Thread 23460 - liberando recursos
+Thread 23460 - iteración: 2
+23460 semáforo abierto.
+Thread 23460 - consumiendo recursos
+23465 recurso usado.
+Thread 23465 - liberando recursos
+Thread 23458 - consumiendo recursos
+23456 recurso usado.
+Thread 23456 - liberando recursos
+Thread 23456 - iteración: 3
+23456 semáforo abierto.
+Thread 23456 - consumiendo recursos
+23451 recurso usado.
+Thread 23451 - liberando recursos
+Thread 23451 - iteración: 2
+23451 semáforo abierto.
+Thread 23451 - consumiendo recursos
+23450 recurso usado.
+Thread 23450 - liberando recursos
+Thread 23450 - iteración: 3
+23450 semáforo abierto.
+Thread 23450 - consumiendo recursos
+23461 recurso usado.
+Thread 23461 - liberando recursos
+Thread 23461 - iteración: 3
+23461 semáforo abierto.
+Thread 23461 - consumiendo recursos
+23457 recurso usado.
+Thread 23457 - liberando recursos
+Thread 23447 - consumiendo recursos
+23462 recurso usado.
+Thread 23462 - liberando recursos
+Thread 23462 - iteración: 3
+23462 semáforo abierto.
+Thread 23462 - consumiendo recursos
+23459 recurso usado.
+Thread 23459 - liberando recursos
+Thread 23452 - consumiendo recursos
+23456 recurso usado.
+Thread 23456 - liberando recursos
+Thread 23464 - consumiendo recursos
+23463 recurso usado.
+23464 recurso usado.
+Thread 23463 - liberando recursos
+Thread 23463 - iteración: 3
+23463 semáforo abierto.
+Thread 23463 - consumiendo recursos
+Thread 23464 - liberando recursos
+23462 recurso usado.
+Thread 23462 - liberando recursos
+Thread 23454 - consumiendo recursos
+Thread 23453 - consumiendo recursos
+23452 recurso usado.
+Thread 23452 - liberando recursos
+Thread 23452 - iteración: 1
+23452 semáforo abierto.
+Thread 23452 - consumiendo recursos
+23450 recurso usado.
+Thread 23450 - liberando recursos
+Thread 23448 - consumiendo recursos
+23461 recurso usado.
+Thread 23461 - liberando recursos
+Thread 23449 - consumiendo recursos
+23460 recurso usado.
+Thread 23460 - liberando recursos
+Thread 23460 - iteración: 3
+23460 semáforo abierto.
+Thread 23460 - consumiendo recursos
+23447 recurso usado.
+Thread 23447 - liberando recursos
+Thread 23447 - iteración: 1
+23447 semáforo abierto.
+Thread 23447 - consumiendo recursos
+23451 recurso usado.
+Thread 23451 - liberando recursos
+Thread 23451 - iteración: 3
+23451 semáforo abierto.
+Thread 23451 - consumiendo recursos
+23460 recurso usado.
+Thread 23460 - liberando recursos
+Thread 23455 - consumiendo recursos
+23448 recurso usado.
+Thread 23448 - liberando recursos
+Thread 23448 - iteración: 1
+23448 semáforo abierto.
+23463 recurso usado.
+Thread 23463 - liberando recursos
+Thread 23448 - consumiendo recursos
+23458 recurso usado.
+Thread 23458 - liberando recursos
+Thread 23458 - iteración: 3
+23458 semáforo abierto.
+Thread 23458 - consumiendo recursos
+Thread 23446 - consumiendo recursos
+23454 recurso usado.
+Thread 23454 - liberando recursos
+Thread 23454 - iteración: 1
+23454 semáforo abierto.
+Thread 23454 - consumiendo recursos
+23453 recurso usado.
+Thread 23453 - liberando recursos
+Thread 23453 - iteración: 1
+23453 semáforo abierto.
+Thread 23453 - consumiendo recursos
+23449 recurso usado.
+Thread 23449 - liberando recursos
+Thread 23449 - iteración: 1
+23449 semáforo abierto.
+Thread 23449 - consumiendo recursos
+23452 recurso usado.
+Thread 23452 - liberando recursos
+Thread 23452 - iteración: 2
+23452 semáforo abierto.
+Thread 23452 - consumiendo recursos
+23448 recurso usado.
+Thread 23448 - liberando recursos
+Thread 23448 - iteración: 2
+23448 semáforo abierto.
+Thread 23448 - consumiendo recursos
+23458 recurso usado.
+Thread 23458 - liberando recursos
+23447 recurso usado.
+Thread 23447 - liberando recursos
+Thread 23447 - iteración: 2
+23447 semáforo abierto.
+Thread 23447 - consumiendo recursos
+23454 recurso usado.
+Thread 23454 - liberando recursos
+Thread 23454 - iteración: 2
+23454 semáforo abierto.
+Thread 23454 - consumiendo recursos
+23455 recurso usado.
+Thread 23455 - liberando recursos
+Thread 23455 - iteración: 1
+23455 semáforo abierto.
+Thread 23455 - consumiendo recursos
+23452 recurso usado.
+Thread 23452 - liberando recursos
+Thread 23452 - iteración: 3
+23452 semáforo abierto.
+Thread 23452 - consumiendo recursos
+23451 recurso usado.
+Thread 23451 - liberando recursos
+23446 recurso usado.
+Thread 23446 - liberando recursos
+Thread 23446 - iteración: 1
+23446 semáforo abierto.
+Thread 23446 - consumiendo recursos
+23454 recurso usado.
+Thread 23454 - liberando recursos
+Thread 23454 - iteración: 3
+23454 semáforo abierto.
+Thread 23454 - consumiendo recursos
+23448 recurso usado.
+Thread 23448 - liberando recursos
+Thread 23448 - iteración: 3
+23448 semáforo abierto.
+Thread 23448 - consumiendo recursos
+23455 recurso usado.
+Thread 23455 - liberando recursos
+Thread 23455 - iteración: 2
+23455 semáforo abierto.
+Thread 23455 - consumiendo recursos
+23453 recurso usado.
+Thread 23453 - liberando recursos
+Thread 23453 - iteración: 2
+23453 semáforo abierto.
+Thread 23453 - consumiendo recursos
+23446 recurso usado.
+Thread 23446 - liberando recursos
+Thread 23446 - iteración: 2
+23446 semáforo abierto.
+Thread 23446 - consumiendo recursos
+23449 recurso usado.
+Thread 23449 - liberando recursos
+Thread 23449 - iteración: 2
+23449 semáforo abierto.
+Thread 23449 - consumiendo recursos
+23446 recurso usado.
+Thread 23446 - liberando recursos
+Thread 23446 - iteración: 3
+23446 semáforo abierto.
+Thread 23446 - consumiendo recursos
+23452 recurso usado.
+Thread 23452 - liberando recursos
+23448 recurso usado.
+Thread 23448 - liberando recursos
+23447 recurso usado.
+Thread 23447 - liberando recursos
+Thread 23447 - iteración: 3
+23447 semáforo abierto.
+Thread 23447 - consumiendo recursos
+23453 recurso usado.
+Thread 23453 - liberando recursos
+Thread 23453 - iteración: 3
+23453 semáforo abierto.
+Thread 23453 - consumiendo recursos
+23449 recurso usado.
+Thread 23449 - liberando recursos
+Thread 23449 - iteración: 3
+23449 semáforo abierto.
+Thread 23449 - consumiendo recursos
+23454 recurso usado.
+Thread 23454 - liberando recursos
+23447 recurso usado.
+Thread 23447 - liberando recursos
+23446 recurso usado.
+Thread 23446 - liberando recursos
+23449 recurso usado.
+Thread 23449 - liberando recursos
+23455 recurso usado.
+Thread 23455 - liberando recursos
+Thread 23455 - iteración: 3
+23455 semáforo abierto.
+Thread 23455 - consumiendo recursos
+23453 recurso usado.
+Thread 23453 - liberando recursos
+23455 recurso usado.
+Thread 23455 - liberando recursos
